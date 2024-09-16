@@ -1,7 +1,7 @@
 # Book Library
 
 The project is written in C# language to manage library.
-It has adding, deleting books and listing info connected with the books.
+It allow to add, delete books and list info connected with the books.
 
 # Functionalities:
 
